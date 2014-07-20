@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-project repo data science demo
+project repo data science
